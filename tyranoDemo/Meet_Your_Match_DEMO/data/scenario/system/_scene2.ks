@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/daytime_bgs/librarywalk_geisel.png"  ]
+[preload  storage="./data/bgimage/daytime_bgs/pceast_study.png"  ]
+[preload  storage="./data/fgimage/chara/4/ScratchAng.png"  ]
+[preload  storage="./data/fgimage/chara/4/ScratchNeu.png"  ]
+[preload  storage="./data/fgimage/chara/4/ScratchSad.png"  ]
+[preload  storage="./data/fgimage/chara/4/ScratchHap.png"  ]
+[return]

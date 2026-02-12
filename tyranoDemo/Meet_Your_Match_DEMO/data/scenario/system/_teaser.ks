@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/cgs/bytecg.png"  ]
+[preload  storage="./data/bgimage/cgs/scratchcg.png"  ]
+[preload  storage="./data/bgimage/cgs/texcg.png"  ]
+[preload  storage="./data/bgimage/cgs/xetcg.png"  ]
+[preload  storage="./data/bgimage/cgs/xet_ending.jpg"  ]
+[preload  storage="./data/bgimage/cgs/tex_barnes_date_CG.png"  ]
+[preload  storage="./data/bgimage/xet_mym_CG.png"  ]
+[return]

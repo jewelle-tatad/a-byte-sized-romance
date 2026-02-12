@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/daytime_bgs/librarywalk_target.png"  ]
+[preload  storage="./data/bgimage/cgs/xet_clubrush.jpg"  ]
+[preload  storage="./data/bgimage/daytime_bgs/librarywalk_geisel.png"  ]
+[preload  storage="./data/fgimage/chara/3/XetHappy.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/XetNeutral.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/XetConfused.PNG"  ]
+[preload  storage="./data/fgimage/chara/3/XetBlush.PNG"  ]
+[return]

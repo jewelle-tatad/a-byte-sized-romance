@@ -1,2 +1,2 @@
-[eval exp="f._system_preview_ks='name_college.ks'"] 
+[eval exp="f._system_preview_ks='scene4.ks'"] 
 [return] 

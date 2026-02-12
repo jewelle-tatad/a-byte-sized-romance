@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/daytime_bgs/pceast.png"  ]
+[preload  storage="./data/bgimage/daytime_bgs/target.png"  ]
+[preload  storage="./data/fgimage/chara/2/texconfused.png"  ]
+[preload  storage="./data/fgimage/chara/2/texsad.png"  ]
+[preload  storage="./data/fgimage/chara/2/texangry.png"  ]
+[preload  storage="./data/fgimage/chara/2/texhappy.png"  ]
+[preload  storage="./data/fgimage/chara/2/texnormal.png"  ]
+[return]

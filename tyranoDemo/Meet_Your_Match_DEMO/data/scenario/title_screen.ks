@@ -2,16 +2,18 @@
 
 [tb_clear_images]
 
+[tb_start_tyrano_code]
+[hidemenubutton]
+[_tb_end_tyrano_code]
+
+[cursor  storage="mymcursor.png"  ]
+[bg  time="250"  method="fadeIn"  storage="title_mym.jpg"  ]
 [tb_keyconfig  flag="0"  ]
-[bg  storage="title.jpg"  ]
 *title
 
-[glink  color="black"  text="New&nbsp;Game"  x="75"  y="370"  size="20"  target="*start"  ]
-[glink  color="black"  text="Load&nbsp;Game"  x="75"  y="470"  size="20"  target="*load"  ]
+[glink  color="btn_26_blue"  text="Start"  x="630"  y="793"  size="40"  target="*start"  width="650"  height="100"  _clickable_img=""  ]
 [s  ]
 *start
-
-[showmenubutton]
 
 [cm  ]
 [tb_keyconfig  flag="1"  ]
@@ -20,7 +22,6 @@
 *load
 
 [cm  ]
-[showload]
-
+[tb_hide_message_window  ]
 [jump  target="*title"  storage=""  ]
 [s  ]
